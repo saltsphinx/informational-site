@@ -1,0 +1,4 @@
+# Informational Site
+## [Live Deployment]()
+
+A project assigned to me by [The Odin Project](https://www.theodinproject.com/lessons/nodejs-basic-informational-site). The lessons leading up to the project went over the purpose and history of Node.js, and wemt into detail about what makes up the backend and what distinguishes it from the frontend. It gave a basic foundation for how clients and servers interact with one another through HTTP, and taught how to create a server, andhow to respond to HTTP requests programmatically before getting into using a backend web framework. I took it a bit further, and mimicked the templates and routes from legitimate frameworks, but I kept it as simple as I could.
